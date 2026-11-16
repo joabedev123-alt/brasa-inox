@@ -1,0 +1,36 @@
+@font-face {
+  font-display: swap;
+  font-family: "bootstrap-icons";
+  src: url("bootstrap-icons.woff2") format("woff2");
+}
+
+.bi::before,
+[class^="bi-"]::before,
+[class*=" bi-"]::before {
+  display: inline-block;
+  font-family: "bootstrap-icons" !important;
+  font-style: normal;
+  font-weight: 400 !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  vertical-align: -0.125em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bi-arrow-right::before { content: "\f138"; }
+.bi-arrow-up-right::before { content: "\f144"; }
+.bi-chat-dots::before { content: "\f24a"; }
+.bi-check2-circle::before { content: "\f270"; }
+.bi-dash-lg::before { content: "\f63b"; }
+.bi-fire::before { content: "\f7f6"; }
+.bi-gear::before { content: "\f3e5"; }
+.bi-images::before { content: "\f42b"; }
+.bi-list::before { content: "\f479"; }
+.bi-plus-lg::before { content: "\f64d"; }
+.bi-rulers::before { content: "\f523"; }
+.bi-shield-check::before { content: "\f52f"; }
+.bi-tools::before { content: "\f5db"; }
+.bi-whatsapp::before { content: "\f618"; }
+.bi-x-lg::before { content: "\f659"; }
