@@ -50,7 +50,7 @@ const BRASA = {
     {
       id: "braseiros",
       title: "Braseiros e sistemas de grill giratório",
-      image: "assets/images/braseiro-circular.webp",
+      image: "assets/images/braseiro-kit-suspenso.webp",
       message: "braseiros"
     },
     {
@@ -84,7 +84,11 @@ const BRASA = {
     { src: "assets/images/espetos-giratorios.webp", category: "churrasqueiras", caption: "Sistema de espetos giratórios." },
     { src: "assets/images/churrasqueira-coifa.webp", category: "churrasqueiras", caption: "Churrasqueira com coifa em inox." },
     { src: "assets/images/grelhas.webp", category: "churrasqueiras", caption: "Grelhas em aço inox." },
-    { src: "assets/images/braseiro-circular.webp", category: "braseiros", caption: "Braseiro circular." },
+    { src: "assets/images/braseiro-circular.webp", category: "braseiros", caption: "Lareira a lenha." },
+    { src: "assets/images/braseiro-kit-suspenso.webp", category: "braseiros", caption: "Braseiro com kit suspenso." },
+    { src: "assets/images/kit-suspenso-grelha.webp", category: "braseiros", caption: "Braseiro com o kit suspenso com espeto e grela uruguaia." },
+    { src: "assets/images/kit-gira-grill.webp", category: "churrasqueiras", caption: "Kit gira grill." },
+    { src: "assets/images/kit-gira-grill-02.webp", category: "churrasqueiras", caption: "Kit gira grill 02." },
     { src: "assets/images/bancada-pia.webp", category: "bancadas", caption: "Bancada e pia em inox." },
     { src: "assets/images/bancada.webp", category: "bancadas", caption: "Bancada em aço inox." },
     { src: "assets/images/coifa-linha.webp", category: "bancadas", caption: "Coifa em aço inox." },

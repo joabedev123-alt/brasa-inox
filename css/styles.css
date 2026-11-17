@@ -677,6 +677,7 @@ h3 {
 .gallery-item figcaption {
   margin-top: 0.65rem;
   color: var(--silver);
+  overflow-wrap: anywhere;
 }
 
 .gallery-zoom {
