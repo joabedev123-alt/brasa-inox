@@ -2,10 +2,10 @@
    O texto visível também está no HTML para a página funcionar sem JavaScript. */
 const BRASA = {
   brand: "BRASA INOX",
-  phoneDisplay: "(31) 99932-5641",
-  phoneIntl: "5531999325641",
+  phoneDisplay: "(31) 99932-5541",
+  phoneIntl: "5531999325541",
   primaryUrl:
-    "https://wa.me/5531999325641?text=Ol%C3%A1%21%20Conheci%20a%20BRASA%20INOX%20pelo%20site%20e%20gostaria%20de%20solicitar%20um%20or%C3%A7amento.",
+    "https://wa.me/5531999325541?text=Ol%C3%A1%21%20Conheci%20a%20BRASA%20INOX%20pelo%20site%20e%20gostaria%20de%20solicitar%20um%20or%C3%A7amento.",
   camalyUrl: "https://camaly.com.br/",
   instagram: "",
   messages: {
@@ -79,14 +79,13 @@ const BRASA = {
     }
   ],
   gallery: [
-    { src: "assets/images/churrasqueira-embutida.webp", category: "churrasqueiras", caption: "Churrasqueira embutida." },
+    { src: "assets/images/churrasqueira-embutida.webp", category: "churrasqueiras", caption: "Churrasqueira híbrida estrutura a gás e carvão em um só equipamento facilitando o uso mediante a facilidade de escolha do seu churrasco." },
     { src: "assets/images/lareira-linear.webp", category: "braseiros", caption: "Lareira linear." },
     { src: "assets/images/espetos-giratorios.webp", category: "churrasqueiras", caption: "Sistema de espetos giratórios." },
     { src: "assets/images/churrasqueira-coifa.webp", category: "churrasqueiras", caption: "Churrasqueira com coifa em inox." },
     { src: "assets/images/grelhas.webp", category: "churrasqueiras", caption: "Grelhas em aço inox." },
     { src: "assets/images/braseiro-circular.webp", category: "braseiros", caption: "Lareira a lenha." },
     { src: "assets/images/braseiro-kit-suspenso.webp", category: "braseiros", caption: "Braseiro com kit suspenso." },
-    { src: "assets/images/kit-suspenso-grelha.webp", category: "braseiros", caption: "Braseiro com o kit suspenso com espeto e grela uruguaia." },
     { src: "assets/images/kit-gira-grill.webp", category: "churrasqueiras", caption: "Kit gira grill." },
     { src: "assets/images/kit-gira-grill-02.webp", category: "churrasqueiras", caption: "Kit gira grill 02." },
     { src: "assets/images/bancada-pia.webp", category: "bancadas", caption: "Bancada e pia em inox." },

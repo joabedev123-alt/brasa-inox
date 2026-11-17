@@ -461,7 +461,9 @@ h3 {
 .frame-caption {
   color: var(--muted);
   font-size: 1rem;
+  line-height: 1.45;
   padding: 0.75rem 1.25rem 0;
+  overflow-wrap: anywhere;
 }
 
 .about {
@@ -1411,6 +1413,11 @@ h3 {
 
   .hero-media {
     margin-inline: -0.75rem;
+  }
+
+  .hero-media figcaption {
+    padding-inline: 0.75rem;
+    font-size: 0.98rem;
   }
 
   .lead,
